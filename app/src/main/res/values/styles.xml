@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BottomNavigationView_SelectedLabel">
+        <item name="android:textSize">11sp</item>
+        <item name="android:textColor">@android:color/black</item>
+
+    </style>
+
+    <style name="BottomNavigationView_UnSelectedLabel">
+        <item name="android:textColor">@android:color/darker_gray</item>
+        <item name="android:textSize">9sp</item> <!-- Adjust the text size as needed -->
+    </style>
+
+    <style name="BottomNavigationView_activeIndicator">
+        <item name="android:background">@android:color/transparent</item>
+
+    </style>
+</resources>

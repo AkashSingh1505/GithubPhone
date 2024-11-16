@@ -42,7 +42,7 @@ This Android application allows users to effortlessly search for GitHub users, v
 
 ## Demo Build 📦
 
-<a href="https://drive.google.com/file/d/196Vrm1qXyiQc2NV1sx6Kb9oIJeLC8ZII/view?usp=sharing" target="_blank">Download APK</a>
+<a href="https://drive.google.com/file/d/16fWN2J7vPFTwsqqLeGXkEAEoJ8NXEWOf/view?usp=sharing" target="_blank">Download APK</a>
 
 ---
 
